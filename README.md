@@ -2,7 +2,7 @@
 
 # Banner
 
-https://cdn.discordapp.com/attachments/942412994736963614/942550853577998426/unknown.png
+<img src="https://cdn.discordapp.com/attachments/942412994736963614/942550853577998426/unknown.png">
 
 # dorkify
 dorkify is a Python library for searching Google, easily. dorkify uses requests and BeautifulSoup4 to scrape Google. 

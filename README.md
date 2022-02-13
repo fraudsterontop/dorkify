@@ -1,3 +1,5 @@
+[*pypi*](https://pypi.org/project/dorkify)
+
 # dorkify
 dorkify is a Python library for searching Google, easily. dorkify uses requests and BeautifulSoup4 to scrape Google. 
 

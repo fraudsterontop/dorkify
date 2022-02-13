@@ -8,7 +8,7 @@ with open("requirements.txt") as fh:
 
 setup(
     name="dorkify",
-    version="1.0",
+    version="2.0",
     author="hate",
     author_email="",
     description="A Python library for scraping the Google search engine.",

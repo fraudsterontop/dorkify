@@ -28,7 +28,7 @@ class SearchResult:
         return f"SearchResult(url={self.url}, title={self.title}, description={self.description})"
 
 def search(term, num_results=10, lang="en", proxy=None, advanced=False):
-    escaped_term = term.replace(' ', '%20')
+    escaped_term = term
 
     # Proxy
     proxies = None

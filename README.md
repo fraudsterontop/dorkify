@@ -1,5 +1,9 @@
 [***pypi***](https://pypi.org/project/dorkify)
 
+# Banner
+
+https://cdn.discordapp.com/attachments/942412994736963614/942550853577998426/unknown.png
+
 # dorkify
 dorkify is a Python library for searching Google, easily. dorkify uses requests and BeautifulSoup4 to scrape Google. 
 
@@ -37,3 +41,4 @@ dorkify.search(str: term, int: num_results=10, str: lang="en") -> list
 from dorkify import search
 
 search("site:exploit-db.com "gmail"")
+

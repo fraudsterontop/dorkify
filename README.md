@@ -31,10 +31,6 @@ In addition, you can change the language google searches in. For example, to get
 from dorkify import search
 search("exploit-db", lang="en")
 ```
-## dorkify.search
-```python
-dorkify.search(str: term, int: num_results=10, str: lang="en") -> list
-```
 ## In the new version of dorkify you can search on a specified site:
 
 ```python
